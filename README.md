@@ -21,6 +21,6 @@
 <a href="mailto:tnsdyd10@naver.com"><img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ## Dev Logs 🙌
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=boyfromthewell)](https://velog.io/@eungyeole)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=boyfromthewell)](https://velog.io/@boyfromthewell/posts)
 
 
