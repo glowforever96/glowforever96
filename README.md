@@ -7,6 +7,8 @@
 ## Contact ✉️
 <a href="https://www.glowforever96.dev"><img src="https://img.shields.io/badge/Site-009BD5?style=flat-square&logo=Homepage&logoColor=white"/></a>
 
-## For Fun 🪐
-[Galaxy Explorer](https://galaxy-explorer-kappa.vercel.app/) — tour the universe, land on planets, and walk from the Moon to Gwanghwamun Plaza, all in your browser.
+## For Fun
+🪐 [Galaxy Explorer](https://galaxy-explorer-kappa.vercel.app/) — tour the universe, land on planets, and walk from the Moon to Gwanghwamun Plaza, all in your browser.
+
+🇰🇷 [Seoul Explorer](https://seoul-explorer.vercel.app/) — walk Gwanghwamun Plaza into Gyeongbokgung, rebuilt from official heritage scans, and down to the subway below.
 
